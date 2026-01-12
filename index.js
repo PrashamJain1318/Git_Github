@@ -3,3 +3,5 @@ let b = 10;
 console.log(a + b);
 a = 10;
 b = 15;
+
+let c = a * b;
