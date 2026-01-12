@@ -5,3 +5,4 @@ a = 10;
 b = 15;
 
 let c = a * b;
+console.log(c);
