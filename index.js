@@ -9,3 +9,10 @@ console.log(c);
 
 let sum = a + b + c;
 console.log(sum);
+
+
+console.log(a/b);
+console.log(a%b);
+
+console.log(a**2);
+console.log(2**3);
